@@ -6,7 +6,7 @@
 
 * results
 
-<img src="https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/stereo_rendering.png" width="50%" height="50" />
-
 ![stereo_rendering](https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/stereo_rendering.png)
-![Texture](https://github.com/FrankBATMAN/Rendering-Engine-Master-Period-/blob/master/Robot_With_Texture_Loading.bmp)
+![right](https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/right.png)
+![right_ssao](https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/right_ssao.png)
+![right_essao](https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/right_essao.png)
