@@ -6,7 +6,7 @@
 
 * results
 
-<img src="https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/master/stereo_rendering.png" width=256 height=256 />
+<img src="https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/stereo_rendering.png" width="50%" height="50" />
 
 ![Pixel-Shading](https://github.com/FrankBATMAN/Rendering-Engine-Master-Period-/blob/master/PixelShading-Robbit.bmp)
 ![Texture](https://github.com/FrankBATMAN/Rendering-Engine-Master-Period-/blob/master/Robot_With_Texture_Loading.bmp)
