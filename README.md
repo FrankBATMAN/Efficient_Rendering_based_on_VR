@@ -7,10 +7,6 @@
 * results
 
 ![stereo_rendering](https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/stereo_rendering.png)
-![right](https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/right.png)
+![right](https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/right.png =33.3%)
 ![right_ssao](https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/right_ssao.png)
 ![right_essao](https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/right_essao.png)
-
-<img src="https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/right.png" width="33.3%">
-<img src="https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/right.png" width="33.3%">
-<img src="https://github.com/FrankBATMAN/Efficient_Rendering_based_on_VR/blob/master/right.png" width="33.3%">
